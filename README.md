@@ -1,5 +1,7 @@
 # 8-Puzzle Solver (A* Algorithm)
 
+[![Powered by Gaia](https://gaia.tiongson.co/badges/powered-by-gaia.svg)](https://gaia.tiongson.co/)
+
 This project implements the **A* Search Algorithm** to solve the 8-puzzle problem. It compares three different heuristic functions to evaluate their efficiency in finding the optimal path from a start state to a goal state.
 
 ## The Problem
